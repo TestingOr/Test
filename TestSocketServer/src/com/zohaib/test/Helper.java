@@ -11,7 +11,7 @@ import java.util.Calendar;
 public class Helper {
 
 	
-	public static void writeRecord(String msg) {
+	public static void writeRecord(String msg){
 		try {
  
 			File file =new File("records.txt");
